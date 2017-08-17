@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A3B2DF4D1F4567B300CCB630 /* Drone Code Compiler (apple).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drone Code Compiler (apple).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3B2DF4D1F4567B300CCB630 /* Drone Code Compiler (XCODE ONLY).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drone Code Compiler (XCODE ONLY).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3B2DF501F4567B300CCB630 /* AppleScriptObjC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptObjC.framework; path = System/Library/Frameworks/AppleScriptObjC.framework; sourceTree = SDKROOT; };
 		A3B2DF541F4567B300CCB630 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A3B2DF561F4567B300CCB630 /* AppDelegate.applescript */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.applescript; path = AppDelegate.applescript; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		A3B2DF4E1F4567B300CCB630 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A3B2DF4D1F4567B300CCB630 /* Drone Code Compiler (apple).app */,
+				A3B2DF4D1F4567B300CCB630 /* Drone Code Compiler (XCODE ONLY).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -86,9 +86,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A3B2DF4C1F4567B300CCB630 /* Drone Code Compiler (apple) */ = {
+		A3B2DF4C1F4567B300CCB630 /* Drone Code Compiler (XCODE ONLY) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A3B2DF601F4567B300CCB630 /* Build configuration list for PBXNativeTarget "Drone Code Compiler (apple)" */;
+			buildConfigurationList = A3B2DF601F4567B300CCB630 /* Build configuration list for PBXNativeTarget "Drone Code Compiler (XCODE ONLY)" */;
 			buildPhases = (
 				A3B2DF491F4567B300CCB630 /* Sources */,
 				A3B2DF4A1F4567B300CCB630 /* Frameworks */,
@@ -98,9 +98,9 @@
 			);
 			dependencies = (
 			);
-			name = "Drone Code Compiler (apple)";
+			name = "Drone Code Compiler (XCODE ONLY)";
 			productName = "Drone Code Compiler (apple)";
-			productReference = A3B2DF4D1F4567B300CCB630 /* Drone Code Compiler (apple).app */;
+			productReference = A3B2DF4D1F4567B300CCB630 /* Drone Code Compiler (XCODE ONLY).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -119,7 +119,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A3B2DF481F4567B300CCB630 /* Build configuration list for PBXProject "Drone Code Compiler (apple)" */;
+			buildConfigurationList = A3B2DF481F4567B300CCB630 /* Build configuration list for PBXProject "Drone Code Compiler (XCODE ONLY)" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -132,7 +132,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A3B2DF4C1F4567B300CCB630 /* Drone Code Compiler (apple) */,
+				A3B2DF4C1F4567B300CCB630 /* Drone Code Compiler (XCODE ONLY) */,
 			);
 		};
 /* End PBXProject section */
@@ -289,7 +289,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A3B2DF481F4567B300CCB630 /* Build configuration list for PBXProject "Drone Code Compiler (apple)" */ = {
+		A3B2DF481F4567B300CCB630 /* Build configuration list for PBXProject "Drone Code Compiler (XCODE ONLY)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A3B2DF5E1F4567B300CCB630 /* Debug */,
@@ -298,13 +298,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A3B2DF601F4567B300CCB630 /* Build configuration list for PBXNativeTarget "Drone Code Compiler (apple)" */ = {
+		A3B2DF601F4567B300CCB630 /* Build configuration list for PBXNativeTarget "Drone Code Compiler (XCODE ONLY)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A3B2DF611F4567B300CCB630 /* Debug */,
 				A3B2DF621F4567B300CCB630 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A3B2DF4C1F4567B300CCB630"
-               BuildableName = "Drone Code Compiler (apple).app"
-               BlueprintName = "Drone Code Compiler (apple)"
-               ReferencedContainer = "container:Drone Code Compiler (apple).xcodeproj">
+               BuildableName = "Drone Code Compiler (XCODE ONLY).app"
+               BlueprintName = "Drone Code Compiler (XCODE ONLY)"
+               ReferencedContainer = "container:Drone Code Compiler (XCODE ONLY).xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A3B2DF4C1F4567B300CCB630"
-            BuildableName = "Drone Code Compiler (apple).app"
-            BlueprintName = "Drone Code Compiler (apple)"
-            ReferencedContainer = "container:Drone Code Compiler (apple).xcodeproj">
+            BuildableName = "Drone Code Compiler (XCODE ONLY).app"
+            BlueprintName = "Drone Code Compiler (XCODE ONLY)"
+            ReferencedContainer = "container:Drone Code Compiler (XCODE ONLY).xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A3B2DF4C1F4567B300CCB630"
-            BuildableName = "Drone Code Compiler (apple).app"
-            BlueprintName = "Drone Code Compiler (apple)"
-            ReferencedContainer = "container:Drone Code Compiler (apple).xcodeproj">
+            BuildableName = "Drone Code Compiler (XCODE ONLY).app"
+            BlueprintName = "Drone Code Compiler (XCODE ONLY)"
+            ReferencedContainer = "container:Drone Code Compiler (XCODE ONLY).xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A3B2DF4C1F4567B300CCB630"
-            BuildableName = "Drone Code Compiler (apple).app"
-            BlueprintName = "Drone Code Compiler (apple)"
-            ReferencedContainer = "container:Drone Code Compiler (apple).xcodeproj">
+            BuildableName = "Drone Code Compiler (XCODE ONLY).app"
+            BlueprintName = "Drone Code Compiler (XCODE ONLY)"
+            ReferencedContainer = "container:Drone Code Compiler (XCODE ONLY).xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
